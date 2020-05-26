@@ -7,6 +7,11 @@
  <li>[네이버로 이동][naverlink]</li>
  </ul>
 [naverlink]: www.naver.com "Go naver"
+
+[link keyword][id]
+
+[id]: URL "Optional Title here"
+
 // code
 Link: [Google][googlelink]
 
