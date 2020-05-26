@@ -6,7 +6,8 @@
  <ul>
  <li>[네이버로 이동][naverlink]</li>
  </ul>
-
-// 링크걸기
+[naverlink]: www.naver.com "Go naver"
 // code
-[naverlink]: https://www.naver.com "Go naver"
+Link: [Google][googlelink]
+
+[googlelink]: https://google.com "Go google"
