@@ -85,7 +85,7 @@ git은 리눅스와 같은 큰 프로젝트를 염두에 두고 디자인되었�
 ## 3. 사용법
 
 ### 3. 1 git bash 간단 사용법
-[사용법 보러가기](ttps://midas123.tistory.com/224)
+[사용법 보러가기](https://midas123.tistory.com/224)
 
 ### 3. 2 github 사용 가이드
 Window [사용가이드](https://hyoje420.tistory.com/37)
