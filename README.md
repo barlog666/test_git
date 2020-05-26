@@ -9,25 +9,14 @@
 
 [naverlink]: https://naver.com "Go naver"
 
-<ul>
-<li>
-  
 [Google][googlelink]
   
 [googlelink]: https://google.com "Go google"
 
-</li>
-</ul>
+[Daum](https://Daum.net, "Daum link")
 
 
-* [Google][googlelink]
-
-[googlelink]: https://google.com "Go google"
-
-* [Daum](https://Daum.net, "Daum link")
-
-
-<h3>2. 글머리기호</h3>
+<h3>2. 글머리기호(*, +, -)</h3>
 
 * 1단계
   * 2단계
