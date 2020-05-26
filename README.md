@@ -18,7 +18,7 @@
 </ul>
 
 
-[Google][googlelink]
+*[Google][googlelink]
 
 [googlelink]: https://google.com "Go google"
 
