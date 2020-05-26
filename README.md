@@ -6,8 +6,9 @@
 [naverlink]: https://naver.com "Go naver"
 <ul>
 <li>
-[Naver][naverlink]
-[naverlink]: https://naver.com "Go naver"
+[Google][googlelink]
+
+[googlelink]: https://google.com "Go google"
 </li>
 </ul>
 
