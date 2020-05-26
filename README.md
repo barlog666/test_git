@@ -53,4 +53,9 @@ this is an H2
 > > Second
 > > > Third
 
-
+### Code Block
+```
+<?php
+  echo "Hello, World!";
+?>
+```
