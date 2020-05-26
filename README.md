@@ -6,12 +6,6 @@
  <ul>
  <li>[Naver][naverlink]</li>
  </ul>
-Link: [Naver][naverlink]
-[naverlink]: www.naver.com "Go naver"
-
-[link keyword][id]
-
-[id]: URL "Optional Title here"
 
 // code
 Link: [Google][googlelink]
