@@ -22,7 +22,7 @@ sudo yum install git
 ## 2. 사용법
 
 ### 2. 1 git bash 간단 사용법
-[사용법 보러가기](ttps://midas123.tistory.com/224)
+[사용법 보러가기](https://midas123.tistory.com/224)
 
 ### 2. 2 github 사용 가이드
 Window [사용가이드](https://hyoje420.tistory.com/37)
