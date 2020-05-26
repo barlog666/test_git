@@ -7,7 +7,7 @@
  <li>[Naver][naverlink]</li>
  </ul>
 
-// code
-Link: [Google][googlelink]
+
+[Google][googlelink]
 
 [googlelink]: https://google.com "Go google"
