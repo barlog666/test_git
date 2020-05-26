@@ -2,6 +2,6 @@
 
 테스트입니다.
 
-<?php
+<?
 echo "sucsses";
 ?>
