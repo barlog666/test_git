@@ -3,5 +3,7 @@
 <h2> Github practice </h2>
  <h3> 링크 걸기</h3>
  
- [네이버로 이동](www.naver.com)
+ <ul>
+ <li>[네이버로 이동](http://www.naver.com)</li>
+ </ul>
 
