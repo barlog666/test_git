@@ -7,12 +7,11 @@
 <ul>
 <li>
 [Google][googlelink]
-
 [googlelink]: https://google.com "Go google"
 </li>
 </ul>
 
 
-[Google](google.com ,"googlelink")
+link: [Google](google.com ,"go google")
 
 
