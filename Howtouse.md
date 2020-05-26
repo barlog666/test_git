@@ -9,7 +9,7 @@
 
 #### git hub [회원가입](https://github.com/, "Github")
 
-#### git 
+#### git 설치하기
 * 윈도우 : https://git-scm.com/
 
 * 리눅스
@@ -17,6 +17,7 @@
 sudo apt-get install git
 sudo yum install git
 ```
+</br>
 
 ## 2. 사용법
 
@@ -29,7 +30,7 @@ Window [사용가이드](https://hyoje420.tistory.com/37)
 Mac [사용가이드](https://zeddios.tistory.com/4)
 
 
-</br>
+
 </br>
 
 ## 3. 기본 예제
