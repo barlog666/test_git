@@ -4,7 +4,7 @@
  <h3> 링크 걸기</h3>
  
  <ul>
- <li>[네이버로 이동][naverlink]</li>
+ <li>[Naver][naverlink]</li>
  </ul>
 [naverlink]: www.naver.com "Go naver"
 
