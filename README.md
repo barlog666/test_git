@@ -4,14 +4,9 @@
  <h3> 링크 걸기</h3>
  
  <ul>
- <li>[네이버로 이동][http://www.naver.com]</li>
+ <li>[네이버로 이동][naverlink]</li>
  </ul>
 
-[link keyword][id]
-
-[id]: URL "Optional Title here"
-
+// 링크걸기
 // code
-Link: [Google][googlelink]
-
-[googlelink]: https://google.com "Go google"
+[naverlink]: https://www.naver.com "Go naver"
